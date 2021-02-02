@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1503" started-at="2021-02-02T19:11:12Z" finished-at="2021-02-02T19:11:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1503" started-at="2021-02-02T19:11:12Z" finished-at="2021-02-02T19:11:13Z">
+      <class name="GetOperation.GetUserTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:GetOperation.GetUserTest@1e4a7dd4]" name="beforeSuite" is-config="true" duration-ms="410" started-at="2021-02-02T19:11:12Z" finished-at="2021-02-02T19:11:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="getEmployeeDetailTest()[pri:0, instance:GetOperation.GetUserTest@1e4a7dd4]" name="getEmployeeDetailTest" duration-ms="1484" started-at="2021-02-02T19:11:12Z" finished-at="2021-02-02T19:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployeeDetailTest -->
+      </class> <!-- GetOperation.GetUserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
